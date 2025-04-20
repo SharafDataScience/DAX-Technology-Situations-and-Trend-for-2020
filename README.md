@@ -1,0 +1,1 @@
+# DAX-Technology-Situations-and-Trend-for-2020
