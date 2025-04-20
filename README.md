@@ -49,8 +49,8 @@ The tech industry is evolving rapidly, making it critical to monitor changes in 
 - NoSQL and cloud-based databases like Redis and Elasticsearch gained traction.
 
 ##  Dashboards
-Explore the interactive dashboards built using IBM Cognos:
-👉 [View Dashboard](https://dataplatform.cloud.ibm.com/dashboards/93db381f-225d-4824-8d16-d477f609dfb8/view/771fd77f358b368d76ecc4e407ca7a542e32205cb2bb8152d5807b490e637897a83f14c7c87a490cd9420c31a0ea410ac0)
+dashboards built using IBM Cognos:
+
 
 ## Discussion
 The power of a programming language lies in its alignment with developer skill and project requirements. The insights from this project help inform hiring, learning, and development decisions.
